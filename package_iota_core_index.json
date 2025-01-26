@@ -1,7 +1,7 @@
 {
     "packages": [
       {
-        "name": "iotacore",
+        "name": "iotaCore",
         "maintainer": "MR. INDUSTRIES",
         "websiteURL": "https://mr.industries",
         "email": "support@mr.industries",
@@ -19,17 +19,22 @@
               {"name": "iotaCore ESP32-S3 No PSRAM"}
             ],
             "toolsDependencies": [
-            {
-              "packager": "esp32",
-              "name": "xtensa-esp32-elf-gcc",
-              "version": "esp-2021r2-patch5-8.4.0"
-            },
-            {
-              "packager": "esp32",
-              "name": "esptool_py",
-              "version": "4.5.1"
-            }
-          ]
+              {
+                "packager": "esp32",
+                "name": "esp32-arduino-libs",
+                "version": "3.1.0-RC2" 
+              },
+              {
+                "packager": "esp32",
+                "name": "esptool_py",
+                "version": "4.5.1"
+              },
+              {
+                "packager": "esp32",
+                "name": "esp-x32",
+                "version": "3.0.0"
+              }
+            ]
           }
         ]
       }
