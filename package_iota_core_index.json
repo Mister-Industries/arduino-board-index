@@ -9,10 +9,10 @@
           {
             "name": "iotaCore ESP32 Boards",
             "architecture": "esp32",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "category": "Contributed",
-            "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/iotaCore/iota-core-1.0.0.zip",
-            "archiveFileName": "iota-core-1.0.0.zip",
+            "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/iotaCore/iota-core-1.0.1.zip",
+            "archiveFileName": "iota-core-1.0.1.zip",
             "checksum": "SHA-256:f29493f02513632761de1a5b783e1c71a0186f6d991abd9f6281665661b6e4b5",
             "size": "150398",
             "boards": [
