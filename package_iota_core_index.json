@@ -11,7 +11,7 @@
             "architecture": "esp32",
             "version": "1.0.1",
             "category": "Contributed",
-            "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/iotaCore/iota-core-1.0.1.zip",
+            "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/v1.0.1/iota-core-1.0.1.zip",
             "archiveFileName": "iota-core-1.0.1.zip",
             "checksum": "SHA-256:c145abf1132b143fba36aade73d8e97dca26a02d86c95efbb36c2d5684e6eabe",
             "size": "20616183",
