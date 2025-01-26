@@ -1,7 +1,7 @@
 {
     "packages": [
       {
-        "name": "iotaCore-esp32",
+        "name": "iotacore",
         "maintainer": "MR. INDUSTRIES",
         "websiteURL": "https://mr.industries",
         "email": "support@mr.industries",
