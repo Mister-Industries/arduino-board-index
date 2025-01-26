@@ -9,10 +9,10 @@
           {
             "name": "iotaCore ESP32 Boards",
             "architecture": "esp32",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "category": "Contributed",
             "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/iotaCore/iota-core-1.0.0.zip",
-            "archiveFileName": "iota-core-1.0.0.zip",
+            "archiveFileName": "iota-core-1.0.1.zip",
             "checksum": "SHA-256:8b9185e7419590f0a376a40cf491f4abece7148fd45834e8a553e15a5cb29648",
             "size": "143731",
             "boards": [
@@ -22,17 +22,17 @@
               {
                 "packager": "esp32",
                 "name": "esp32-arduino-libs",
-                "version": "3.1.0-RC2" 
-              },
-              {
-                "packager": "esp32",
-                "name": "esptool_py",
-                "version": "4.5.1"
+                "version": "idf-release_v5.3-083aad99-v2"
               },
               {
                 "packager": "esp32",
                 "name": "esp-x32",
-                "version": "3.0.0"
+                "version": "2405"
+              },
+              {
+                "packager": "esp32",
+                "name": "esptool_py",
+                "version": "4.9.dev3"
               }
             ]
           }
