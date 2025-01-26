@@ -1,7 +1,7 @@
 {
     "packages": [
       {
-        "name": "iota_core",
+        "name": "iotaCore-esp32",
         "maintainer": "MR. INDUSTRIES",
         "websiteURL": "https://mr.industries",
         "email": "support@mr.industries",
@@ -11,10 +11,10 @@
             "architecture": "esp32",
             "version": "1.0.0",
             "category": "Contributed",
-            "url": "https://your-host/iota-core-1.0.0.zip",
+            "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/iotaCore/iota-core-1.0.0.zip",
             "archiveFileName": "iota-core-1.0.0.zip",
-            "checksum": "SHA-256:[your-checksum]",
-            "size": "[size-in-bytes]",
+            "checksum": "SHA-256:8b9185e7419590f0a376a40cf491f4abece7148fd45834e8a553e15a5cb29648",
+            "size": "143731",
             "boards": [
               {"name": "iotaCore ESP32-S3 No PSRAM"}
             ],
