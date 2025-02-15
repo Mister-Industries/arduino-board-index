@@ -1,0 +1,42 @@
+{
+    "packages": [
+      {
+        "name": "iotaCore",
+        "maintainer": "MR. INDUSTRIES",
+        "websiteURL": "https://mr.industries",
+        "email": "support@mr.industries",
+        "platforms": [
+          {
+            "name": "iotaCore ESP32 Boards",
+            "architecture": "esp32",
+            "version": "1.0.1",
+            "category": "Contributed",
+            "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/v1.0.1/iota-core-1.0.1.zip",
+            "archiveFileName": "iota-core-1.0.1.zip",
+            "checksum": "SHA-256:c145abf1132b143fba36aade73d8e97dca26a02d86c95efbb36c2d5684e6eabe",
+            "size": "20616183",
+            "boards": [
+              {"name": "iotaCore ESP32-S3 No PSRAM"}
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "esp32",
+                "name": "esp32-arduino-libs",
+                "version": "idf-release_v5.3-083aad99-v2"
+              },
+              {
+                "packager": "esp32",
+                "name": "esp-x32",
+                "version": "2405"
+              },
+              {
+                "packager": "esp32",
+                "name": "esptool_py",
+                "version": "4.9.dev3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
