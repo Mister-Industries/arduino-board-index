@@ -13,8 +13,8 @@
             "category": "Contributed",
             "url": "https://github.com/Mister-Industries/arduino-board-index/releases/download/v2.0.0/tiny-core-2.0.0.zip",
             "archiveFileName": "tiny-core-2.0.0.zip",
-            "checksum": "SHA-256:c145abf1132b143fba36aade73d8e97dca26a02d86c95efbb36c2d5684e6eabe",
-            "size": "20616183",
+            "checksum": "SHA-256:fc5be64a326991642284e2777229b2a0c92003318e403d0235c834d5fb216698",
+            "size": "20616179",
             "boards": [
               {"name": "tinyCore ESP32-S3 No PSRAM"}
             ],
