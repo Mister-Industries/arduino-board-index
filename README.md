@@ -14,7 +14,7 @@
 
 3. Add Custom Board Manager URL
    - In "Additional Board Manager URLs" field, paste:
-     `https://raw.githubusercontent.com/Mister-Industries/arduino-board-index/refs/heads/main/package_iota_core_index.json`
+     `https://raw.githubusercontent.com/Mister-Industries/arduino-board-index/refs/heads/main/package_tiny_core_index.json`
    - For multiple URLs, separate with commas
 
 4. Open Board Manager
@@ -26,12 +26,12 @@
    - Click "Install"
 
 5. Install iotaCore Custom Board
-   - Search for `iotaCore`
-   - Select `iotaCore ESP32 Boards` package (v1.0.1) by MR.INDUSTRIES 
+   - Search for `tinyCore`
+   - Select `tinyCore ESP32 Boards` package (v2.0.0) by MR.INDUSTRIES 
    - Click "Install"
 
 6. Select Board
-   - Tools > Board > Select `iotaCore ESP32-S3 No PSRAM`
+   - Tools > Board > Select `tinyCore ESP32-S3 No PSRAM`
    - Make sure Upload Mode is set to `UART0 / Hardware CDC`
    - Make sure USB Mode is set to `Hardware CDC and JTAG`
 
